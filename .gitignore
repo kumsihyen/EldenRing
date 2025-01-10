@@ -103,6 +103,7 @@ Build/IOS/Resources/Graphics/*
 !Build/IOS/Resources/Graphics/*.png
 !Build/Android/res/
 Build/Android/res/*
+Plugins/*
 !Build/Android/res/*/
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
