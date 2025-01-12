@@ -19,10 +19,6 @@ struct FItemData: public FTableRowBase  // FTableRowBase를 상속
 	FText Description;  // 변수 이름만 변경
 
 
-
-
-	
-	
 	// 텍스처 2D (UTexture2D*로 사용)
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	UTexture2D* Thumbnail;
@@ -35,8 +31,36 @@ struct FItemData: public FTableRowBase  // FTableRowBase를 상속
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	int32 MaximumQuantity;
 
-	// 인벤토리타입
+	// 인벤토리 타입
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	EBaseInventoryType BaseInventory;
+
+
+	FItemData()
+		: Name(FText::FromString(TEXT("Default Name"))),
+		Description(FText::FromString(TEXT("Default Description"))),
+		Thumbnail(nullptr),
+		ItemActorClass(nullptr),
+		MaximumQuantity(1),
+		BaseInventory(EBaseInventoryType::Weapon) 
+	{
+	}
 };
 
+USTRUCT(BlueprintType)
+struct FSlotData
+{
+	GENERATED_BODY()
+
+	//아이템 ID
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Custom")
+	FName ItemID;
+
+	//인벤토리에 있는 현재 수량
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Custom")
+	int32 Quantity;
+
+	//오브젝트 ID
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Custom")
+	int32 ObjectID;
+};

@@ -3,6 +3,7 @@
 UENUM()
 enum class EBaseInventoryType : uint8
 {
-	Weapon,
-	Equipment,
+	Weapon UMETA(DisplayName = "Weapon"),
+	Armor UMETA(DisplayName = "Armor"),
+	Shield UMETA(DisplayName = "Shield"),
 };
