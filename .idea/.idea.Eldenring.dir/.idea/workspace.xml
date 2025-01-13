@@ -8,14 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b25d98-abeb-46e7-9370-2613ec8821c3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Characters/Item_Base.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Private/TestInventoryComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Public/TestInventoryComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Item_Base_Child.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Characters/Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Item.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Characters/NewDataTable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/NewDataTable.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Eldenring/Public/StructType.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Eldenring/Public/StructType.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +138,7 @@
       <workItem from="1736481262462" duration="190000" />
       <workItem from="1736481473370" duration="125000" />
       <workItem from="1736495967989" duration="4955000" />
-      <workItem from="1736728182847" duration="6463000" />
+      <workItem from="1736728182847" duration="10003000" />
     </task>
     <servers />
   </component>
