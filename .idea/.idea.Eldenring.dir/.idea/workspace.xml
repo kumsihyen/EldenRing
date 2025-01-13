@@ -8,202 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5b25d98-abeb-46e7-9370-2613ec8821c3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Characters/NewDataTable.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Characters/NewDataTable1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UI/NewWidgetBlueprint.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_10.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_11.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_12.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_13.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_14.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_15.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_16.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_17.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_18.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_19.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_20.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_21.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_22.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_23.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_24.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_25.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_26.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_27.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_28.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_29.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_30.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_31.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_32.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_33.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_34.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_35.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_36.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_37.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_38.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_39.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_40.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_41.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_42.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_43.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_44.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_45.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_46.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_47.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_48.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_49.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_50.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_51.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_52.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_53.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_54.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_55.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_56.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_57.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_58.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_59.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_60.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_61.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_62.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Tab_Sprite_9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_10.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_11.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_12.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_13.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_14.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_15.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_16.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_17.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_18.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_19.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_20.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_21.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_22.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_23.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_24.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_25.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_26.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_27.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_28.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_29.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_30.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_31.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_32.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_33.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_34.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_35.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_36.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_37.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_38.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_39.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_40.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_41.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_42.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_43.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_44.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_45.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_46.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_47.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_48.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_49.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_50.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_51.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_52.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_53.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_54.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_55.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Icons/SB_Title_01_Sprite_9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_10.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_11.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_12.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_13.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_14.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_15.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_16.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_17.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_18.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_19.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_20.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_21.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_22.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_23.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_24.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_25.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_26.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_27.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_28.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_29.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_30.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_31.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_32.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_33.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_34.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_35.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_36.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_37.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_38.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_39.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_40.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_41.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_42.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_43.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_44.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_45.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_46.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_47.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_48.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_49.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_50.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_51.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_52.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_53.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_54.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_55.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_56.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_57.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_58.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_59.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_60.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_61.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_62.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Tab_Sprite_9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/SB_Title_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UIAsset/Sword.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/4U/NUN4C3B1VHKL16Y9DRVJ9Y.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Private/EnumType.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Private/StructType.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Public/EnumType.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Public/StructType.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Eldenring/Private/MyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Eldenring/Private/MyCharacter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/Item_Base.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Private/TestInventoryComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/Eldenring/Public/TestInventoryComponent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Item.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Item.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/NewDataTable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/NewDataTable.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Eldenring/Public/StructType.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Eldenring/Public/StructType.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,20 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Uproject.Eldenring.executor": "Run",
-    "git-widget-placeholder": "TestStruct",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Uproject.Eldenring.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;TestStruct&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Eldenring" type="Uproject" factoryName="rider.uproject">
       <configuration_1 setup="1">
@@ -318,14 +130,6 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration default="true" type="Uproject" factoryName="rider.uproject">
-      <option name="DEFAULT_PROJECT_PATH" value="" />
-      <option name="PROJECT_FILE_PATH" value="" />
-      <option name="AUTO_SELECT_PRIORITY" value="0" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -339,6 +143,7 @@
       <workItem from="1736481262462" duration="190000" />
       <workItem from="1736481473370" duration="125000" />
       <workItem from="1736495967989" duration="4955000" />
+      <workItem from="1736728182847" duration="6463000" />
     </task>
     <servers />
   </component>
