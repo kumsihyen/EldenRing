@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5b25d98-abeb-46e7-9370-2613ec8821c3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Characters/Item_Base_Child.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Eldenring.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/TestAddItem.uasset" afterDir="false" />
-    </list>
+    <list default="true" id="f5b25d98-abeb-46e7-9370-2613ec8821c3" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

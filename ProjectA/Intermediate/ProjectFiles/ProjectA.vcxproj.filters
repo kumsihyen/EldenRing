@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectA">
+      <UniqueIdentifier>{48F8C3B0-00F3-3567-8AB0-AC794348E36D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectA\ProjectA.Build.cs">
+      <Filter>Source\ProjectA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectA\ProjectA.cpp">
+      <Filter>Source\ProjectA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectA\ProjectA.h">
+      <Filter>Source\ProjectA</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Private">
+      <UniqueIdentifier>{ECB257C7-A84B-3477-9E51-C53EE32019BD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\BaseFunctionLibrary.cpp">
+      <Filter>Source\ProjectA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\BaseGamePlayTags.cpp">
+      <Filter>Source\ProjectA\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AbilitySystem">
+      <UniqueIdentifier>{B4B18BB3-B7F1-3B6E-9EE4-E04FAF7B7602}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\BaseAbilitySystemComponent.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\BaseAttributeSet.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AbilitySystem\Abilities">
+      <UniqueIdentifier>{C5CC7954-48BF-354B-A2A9-4830A16EEEC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\Abilities\BaseGameplayAbility.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\Abilities\EnemyGameplayAbility.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\Abilities\HeroGameplayAbility.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\Abilities\HeroGameplayAbility_Targeting.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\Abilities</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AbilitySystem\AbilityTasks">
+      <UniqueIdentifier>{4FB625CD-BF57-3DAC-A5BE-D6175BC51B58}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\AbilityTasks\AbilityTask_ExecuteTaskOnTick.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\AbilityTasks</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\AbilityTasks\AbilityTask_WaitSpawnEnemies.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\AbilityTasks</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AbilitySystem\GEExecCalc">
+      <UniqueIdentifier>{B75D0A4E-686C-3A2E-8FEA-7EFF9B1E788F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AbilitySystem\GEExecCalc\GEExecCalc_DamageTaken.cpp">
+      <Filter>Source\ProjectA\Private\AbilitySystem\GEExecCalc</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AI">
+      <UniqueIdentifier>{746D0FED-255C-3EFF-82E6-C11C383461F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AI\BTService_OrientToTargetActor.cpp">
+      <Filter>Source\ProjectA\Private\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AI\BTTask_RotateToFaceTarget.cpp">
+      <Filter>Source\ProjectA\Private\AI</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AnimInstances">
+      <UniqueIdentifier>{4DD3B9C3-A71A-3D98-996B-4D1DF4C07567}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AnimInstances\BaseAnimInstance.cpp">
+      <Filter>Source\ProjectA\Private\AnimInstances</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AnimInstances\CharacterAnimInstance.cpp">
+      <Filter>Source\ProjectA\Private\AnimInstances</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AnimInstances\HeroLinkedAnimLayer.cpp">
+      <Filter>Source\ProjectA\Private\AnimInstances</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\AnimInstances\Hero">
+      <UniqueIdentifier>{EFC061AD-DA74-3D02-9852-6D8B17EA0EB0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\AnimInstances\Hero\HeroAnimInstance.cpp">
+      <Filter>Source\ProjectA\Private\AnimInstances\Hero</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\BaseType">
+      <UniqueIdentifier>{3F5B3BB4-5421-3576-9708-06334585F94B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\BaseType\BaseStructType.cpp">
+      <Filter>Source\ProjectA\Private\BaseType</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Characters">
+      <UniqueIdentifier>{D93168DA-93C9-3699-9B8A-B53CDC7D29CE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Characters\BaseCharacter.cpp">
+      <Filter>Source\ProjectA\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Characters\EnemyCharacter.cpp">
+      <Filter>Source\ProjectA\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Characters\HeroCharacter.cpp">
+      <Filter>Source\ProjectA\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Components">
+      <UniqueIdentifier>{35248302-81BD-3011-BA80-58AC2D642DAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\PawnExtensionComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Components\Combat">
+      <UniqueIdentifier>{BA5C7173-3988-34D5-B890-CA7EC7138DB7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Combat\EnemyCombatComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Combat\HeroCombatComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Combat</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Combat\PawnCombatComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Combat</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Components\Input">
+      <UniqueIdentifier>{3502BE7B-C2C4-32CB-9A72-0E9E58176328}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Input\BaseInputComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Input</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Components\Ui">
+      <UniqueIdentifier>{638D520E-BA3B-3C4F-ABEE-85EE50FE0ABA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Ui\EnemyUIComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Ui\HeroUIComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Components\Ui\PawnUiComponent.cpp">
+      <Filter>Source\ProjectA\Private\Components\Ui</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Controllers">
+      <UniqueIdentifier>{9B1C85FA-5F3B-3950-9279-50D52BC35F3B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Controllers\BaseAIController.cpp">
+      <Filter>Source\ProjectA\Private\Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Controllers\HeroController.cpp">
+      <Filter>Source\ProjectA\Private\Controllers</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\DataAssets">
+      <UniqueIdentifier>{8B0A5C49-3309-3D48-8675-F0018A973629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ProjectA\Private\DataAssets\Input">
+      <UniqueIdentifier>{264057A6-DB57-35C2-ABD1-550DEA7CA94B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\DataAssets\Input\DataAsset_InputConfig.cpp">
+      <Filter>Source\ProjectA\Private\DataAssets\Input</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\DataAssets\StartupData">
+      <UniqueIdentifier>{C6C0A5C7-4729-35B7-A3CC-9E108B03E100}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\DataAssets\StartupData\DataAsset_StartupBase.cpp">
+      <Filter>Source\ProjectA\Private\DataAssets\StartupData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\DataAssets\StartupData\DataAsset_StartupEnemy.cpp">
+      <Filter>Source\ProjectA\Private\DataAssets\StartupData</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\DataAssets\StartupData\DataAsset_StartupHero.cpp">
+      <Filter>Source\ProjectA\Private\DataAssets\StartupData</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\GameModes">
+      <UniqueIdentifier>{258EC990-E37A-3193-B117-BB44CCC9F03E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\GameModes\BaseGameMode.cpp">
+      <Filter>Source\ProjectA\Private\GameModes</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Interfaces">
+      <UniqueIdentifier>{9C718004-D665-3B5A-86FC-099A176B7AD2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Interfaces\PawnCombatInterface.cpp">
+      <Filter>Source\ProjectA\Private\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Interfaces\PawnUIInterface.cpp">
+      <Filter>Source\ProjectA\Private\Interfaces</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Items">
+      <UniqueIdentifier>{72D4039C-7994-3443-9D74-3CCFF68E8C6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Items\ProjectileBase.cpp">
+      <Filter>Source\ProjectA\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Items\Weapon">
+      <UniqueIdentifier>{E8A06AA7-FD22-39F0-8BEA-D042847EF6E0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Items\Weapon\HeroWeapon.cpp">
+      <Filter>Source\ProjectA\Private\Items\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Items\Weapon\WeaponBase.cpp">
+      <Filter>Source\ProjectA\Private\Items\Weapon</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Private\Widget">
+      <UniqueIdentifier>{24A193F0-968B-3088-A38D-9438552A2A3D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectA\Private\Widget\WidgetBase.cpp">
+      <Filter>Source\ProjectA\Private\Widget</Filter>
+    </ClCompile>
+    <Filter Include="Source\ProjectA\Public">
+      <UniqueIdentifier>{B9681854-4AB4-3733-B8DB-CEF9F99BBB26}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\BaseDebugHelper.h">
+      <Filter>Source\ProjectA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\BaseFunctionLibrary.h">
+      <Filter>Source\ProjectA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\BaseGamePlayTags.h">
+      <Filter>Source\ProjectA\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AbilitySystem">
+      <UniqueIdentifier>{A85A1591-1CDA-3E3C-A957-AFB477999EC9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\BaseAbilitySystemComponent.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\BaseAttributeSet.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AbilitySystem\Abilities">
+      <UniqueIdentifier>{09DADF7A-AE44-3202-80F6-7864D74922CB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\Abilities\BaseGameplayAbility.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\Abilities\EnemyGameplayAbility.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\Abilities\HeroGameplayAbility.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\Abilities\HeroGameplayAbility_Targeting.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AbilitySystem\AbilityTasks">
+      <UniqueIdentifier>{7ADFA4C6-BEA1-3439-9F6D-15E64A8348E3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\AbilityTasks\AbilityTask_ExecuteTaskOnTick.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\AbilityTasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\AbilityTasks\AbilityTask_WaitSpawnEnemies.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\AbilityTasks</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AbilitySystem\GEExecCalc">
+      <UniqueIdentifier>{1ABA6443-DA90-31D9-B61F-C9D02A893784}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AbilitySystem\GEExecCalc\GEExecCalc_DamageTaken.h">
+      <Filter>Source\ProjectA\Public\AbilitySystem\GEExecCalc</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AI">
+      <UniqueIdentifier>{F2ABC84F-2D8F-30C4-83DB-4EBDD7F3B741}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AI\BTService_OrientToTargetActor.h">
+      <Filter>Source\ProjectA\Public\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AI\BTTask_RotateToFaceTarget.h">
+      <Filter>Source\ProjectA\Public\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AnimInstances">
+      <UniqueIdentifier>{D831CA47-12BD-373D-8D71-3417078CAF94}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AnimInstances\BaseAnimInstance.h">
+      <Filter>Source\ProjectA\Public\AnimInstances</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AnimInstances\CharacterAnimInstance.h">
+      <Filter>Source\ProjectA\Public\AnimInstances</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AnimInstances\HeroLinkedAnimLayer.h">
+      <Filter>Source\ProjectA\Public\AnimInstances</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\AnimInstances\Hero">
+      <UniqueIdentifier>{430D1E4E-8880-31FA-BF32-9AF71F3D3A34}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\AnimInstances\Hero\HeroAnimInstance.h">
+      <Filter>Source\ProjectA\Public\AnimInstances\Hero</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\BaseType">
+      <UniqueIdentifier>{710AB633-169F-3A7C-B24A-CD04E58A7F6E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\BaseType\BaseEnumType.h">
+      <Filter>Source\ProjectA\Public\BaseType</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\BaseType\BaseStructType.h">
+      <Filter>Source\ProjectA\Public\BaseType</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Characters">
+      <UniqueIdentifier>{AFE18E0B-C55A-3896-9C6F-D39126435785}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Characters\BaseCharacter.h">
+      <Filter>Source\ProjectA\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Characters\EnemyCharacter.h">
+      <Filter>Source\ProjectA\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Characters\HeroCharacter.h">
+      <Filter>Source\ProjectA\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Components">
+      <UniqueIdentifier>{60679464-484E-3665-907D-724F1D2BAAC1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\PawnExtensionComponent.h">
+      <Filter>Source\ProjectA\Public\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Components\Combat">
+      <UniqueIdentifier>{914E6115-557A-3C6B-9AE4-5ABCB4BAE254}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Combat\EnemyCombatComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Combat\HeroCombatComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Combat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Combat\PawnCombatComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Components\Input">
+      <UniqueIdentifier>{2382A3EA-6FCF-3B07-9C26-58950C8D837D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Input\BaseInputComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Input</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Components\Ui">
+      <UniqueIdentifier>{FE40F9AE-CA4A-318E-AE0A-8805DEC73590}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Ui\EnemyUIComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Ui\HeroUIComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Components\Ui\PawnUiComponent.h">
+      <Filter>Source\ProjectA\Public\Components\Ui</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Controllers">
+      <UniqueIdentifier>{97B47D9E-96E0-33B3-9A54-26846A5FD005}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Controllers\BaseAIController.h">
+      <Filter>Source\ProjectA\Public\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Controllers\HeroController.h">
+      <Filter>Source\ProjectA\Public\Controllers</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\DataAssets">
+      <UniqueIdentifier>{F92027B7-5467-3278-BD08-FC2E132D4C5E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ProjectA\Public\DataAssets\Input">
+      <UniqueIdentifier>{3495F13F-FAB8-3A7A-923C-915564EC502F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\DataAssets\Input\DataAsset_InputConfig.h">
+      <Filter>Source\ProjectA\Public\DataAssets\Input</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\DataAssets\StartupData">
+      <UniqueIdentifier>{FB691CCD-DE5A-3C7E-AE6F-F7EFF12B0DA2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\DataAssets\StartupData\DataAsset_StartupBase.h">
+      <Filter>Source\ProjectA\Public\DataAssets\StartupData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\DataAssets\StartupData\DataAsset_StartupEnemy.h">
+      <Filter>Source\ProjectA\Public\DataAssets\StartupData</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\DataAssets\StartupData\DataAsset_StartupHero.h">
+      <Filter>Source\ProjectA\Public\DataAssets\StartupData</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\GameModes">
+      <UniqueIdentifier>{51831767-51EB-3DCA-AB2E-F337EF27F750}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\GameModes\BaseGameMode.h">
+      <Filter>Source\ProjectA\Public\GameModes</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Interfaces">
+      <UniqueIdentifier>{3B420752-7AEF-3563-80AF-C215306BD6EB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Interfaces\PawnCombatInterface.h">
+      <Filter>Source\ProjectA\Public\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Interfaces\PawnUIInterface.h">
+      <Filter>Source\ProjectA\Public\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Items">
+      <UniqueIdentifier>{B256B720-2788-3346-B7BA-94C1496B80D3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Items\ProjectileBase.h">
+      <Filter>Source\ProjectA\Public\Items</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Items\Weapon">
+      <UniqueIdentifier>{AEC4E3A3-DF55-3FFA-9CBC-F1D9F4C3BB85}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Items\Weapon\HeroWeapon.h">
+      <Filter>Source\ProjectA\Public\Items\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Items\Weapon\WeaponBase.h">
+      <Filter>Source\ProjectA\Public\Items\Weapon</Filter>
+    </ClInclude>
+    <Filter Include="Source\ProjectA\Public\Widget">
+      <UniqueIdentifier>{45D3D57E-92F4-3612-8D3F-2D976A1B8F4A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ProjectA\Public\Widget\WidgetBase.h">
+      <Filter>Source\ProjectA\Public\Widget</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
